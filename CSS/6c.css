@@ -1,0 +1,33 @@
+
+  p {
+    font-family: Verdana;
+    }
+  .heading {
+     font-weight: bold;
+     margin-top: 0px;
+     margin-bottom: 2px;
+    } 
+
+    .sub-h {
+      color: grey;
+      margin-top: 0px;
+      margin-bottom: 25px;
+      font-size: 14px;
+    }
+
+    .about {
+      width: 300px;
+      margin-top: 0px;
+      margin-bottom: 15px;
+    }
+
+    .start-button {
+      color: white;
+      background-color: rgb(5, 151, 5);
+      border: none;
+      padding: 6px 15px;
+      border-radius: 5px;
+      font-family: Verdana;
+      font-size: 13px;
+    }
+
