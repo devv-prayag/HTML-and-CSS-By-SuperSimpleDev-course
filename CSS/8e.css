@@ -1,0 +1,39 @@
+p {
+  font-family: Arial;
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 25px;
+
+}
+
+input {
+  display: block;
+  border: none;
+  background-color: rgb(238, 235, 235);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  margin-bottom: 6px;
+  width: 300px;
+  font-size: 12px;
+}
+
+.destinationBox {
+  margin-bottom: 30px;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.requestButton {
+  background-color: black;
+  color: white;
+  margin-right: 10px;
+}
