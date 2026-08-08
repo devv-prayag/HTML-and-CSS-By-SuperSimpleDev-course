@@ -32,6 +32,9 @@ p {
 
 .friendsDetails {
   color: rgb(105, 104, 104);
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 5px;
 }
 
 button {
@@ -49,4 +52,18 @@ button {
   border-radius: 5px;
   cursor: pointer;
   
+}
+
+.mutualdp {
+  height: 30px;
+  width: 30px;
+  object-fit: cover;
+  border-radius: 25px;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.mutualLine {
+  height: 30px;
+  margin-bottom: 8px;
 }
